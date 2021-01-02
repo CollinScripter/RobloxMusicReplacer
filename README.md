@@ -9,6 +9,8 @@ This utility can cause instabilities in ROBLOX, wherein no new assets will be do
 
 When replacing music, the music needs to be reloaded to load the modified track.
 
+Note: ROBLOX sounds use the mp3 format
+
 # Use
 
 REQUIRED: Download handle64 and put it in the same folder https://download.sysinternals.com/files/Handle.zip
